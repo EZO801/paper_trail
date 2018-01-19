@@ -1,6 +1,7 @@
 # PaperTrail
 
 [![Build Status][4]][5] [![Dependency Status][6]][7]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fpaper_trail.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fpaper_trail?ref=badge_shield)
 
 Track changes to your models, for auditing or versioning. See how a model looked
 at any stage in its lifecycle, revert it to any version, or restore it after it
@@ -1637,3 +1638,7 @@ Released under the MIT licence.
 [49]: https://github.com/ankit1910/paper_trail-globalid
 [50]: https://github.com/izelnakri/paper_trail
 [51]: https://github.com/rikkipitt/rails_admin_history_rollback
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fpaper_trail.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fpaper_trail?ref=badge_large)
